@@ -2,6 +2,16 @@
 
 这是为《春待ちトロイダル》Steam Windows 64 位试玩版制作的非官方个人汉化补丁。当前版本为 **0.3.4 预发布版**。游戏可以用简体中文试玩，部分台词、分支和界面细节仍待校对。
 
+## 汉化实机预览
+
+以下为 v0.3.4 的游戏内截图，展示菜单、剧情对白与游戏指南的中文显示效果。点击图片可查看原尺寸。
+
+| 标题菜单 | 校园对白 |
+| --- | --- |
+| [![简体中文标题菜单](docs/screenshots/title.jpg)](docs/screenshots/title.jpg) | [![校园剧情对白与中文角色昵称](docs/screenshots/classroom.jpg)](docs/screenshots/classroom.jpg) |
+| 设置菜单 | 游戏指南 |
+| [![简体中文设置菜单](docs/screenshots/settings.jpg)](docs/screenshots/settings.jpg) | [![游戏指南中的话题牌强化说明](docs/screenshots/guide.jpg)](docs/screenshots/guide.jpg) |
+
 ## 下载和安装
 
 1. 从 [v0.3.4 发布页](https://github.com/Qiankunyi/toroidal-demo-zh-cn/releases/tag/v0.3.4) 的 **Assets** 下载 **Toroidal-Demo-zh-CN-0.3.4.zip**，完整解压。
